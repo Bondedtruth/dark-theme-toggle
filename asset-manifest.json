@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dark-theme-toggle/static/css/main.e6dd8f6e.css",
+    "main.js": "/dark-theme-toggle/static/js/main.d4ef3a78.js",
+    "index.html": "/dark-theme-toggle/index.html",
+    "main.e6dd8f6e.css.map": "/dark-theme-toggle/static/css/main.e6dd8f6e.css.map",
+    "main.d4ef3a78.js.map": "/dark-theme-toggle/static/js/main.d4ef3a78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6dd8f6e.css",
+    "static/js/main.d4ef3a78.js"
+  ]
+}
